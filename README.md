@@ -14,7 +14,7 @@ LLFontsConfig = {
    scrollTimeout: false,
 };
 ```
-Для загрузки с своего сайта
+Для загрузки со своего сайта
 ```javascript
 LLFontsConfig = {
    vlenght: 500,
