@@ -1,0 +1,40 @@
+body{
+    min-height: 3000px;
+    font-size: 22px;
+}
+
+.test{
+    font-family: 'Droid Sans';
+}
+.test2{
+    margin-top: 50px;
+    font-family: 'Noto Sans JP';
+}
+.test3{
+    margin-top: 50px;
+    font-family: 'Stick';
+}
+.test4{
+    margin-top: 50px;
+    font-family: 'Akaya Telivigala';
+}
+.test5{
+    margin-top: 50px;
+    font-family: 'RocknRoll One';
+}
+.test6{
+    margin-top: 50px;
+    font-family: 'Lato';
+}
+.test7{
+    margin-top: 50px;
+    font-family: 'Montserrat';
+}
+.test8{
+    margin-top: 50px;
+    font-family: 'Shippori Mincho';
+}
+.test9{
+    margin-top: 50px;
+    font-family: 'Akaya Kanadaka';
+}

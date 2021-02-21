@@ -1,0 +1,36 @@
+body{
+    min-height: 3000px;
+    font-size: 22px;
+}
+
+.test{
+    font-family: 'Droid Sans';
+}
+.test2{
+    margin-top: 50px;
+    font-family: 'Noto Sans JP';
+}
+.test3{
+    margin-top: 50px;
+    font-family: 'HelveticaNeueCyr';
+}
+.test4{
+    margin-top: 50px;
+    font-family: 'SF UI Text';
+}
+.test5{
+    margin-top: 50px;
+    font-family: 'Gotham Pro';
+}
+.test6{
+    margin-top: 50px;
+    font-family: 'DIN Pro';
+}
+.test7{
+    margin-top: 50px;
+    font-family: 'Geometria';
+}
+.test8{
+    margin-top: 50px;
+    font-family: 'Myriad Pro';
+}
